@@ -1,3 +1,16 @@
 h1{
   color: red;
+  background-color: yellow;
+}
+
+.azul{
+  background-color: blue;
+}
+
+#roxo{
+  background-color: purple;
+}
+
+body{
+  background-color: green;
 }
